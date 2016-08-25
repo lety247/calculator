@@ -1,10 +1,10 @@
 # Version: 9.6.0.0 (ios9.3: d7cac50)
-# [first argument, ignore] # /Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/iOS/mtouch.exe
+# [first argument, ignore] # /Users/laetitia.bellity/Documents/calculator.git/iOS/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/9.6.0.0/bin/mtouch \
 	--cache \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/laetitia.bellity/Documents/calculator.git/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/iOS/bin/iPhoneSimulator/Debug/Calculator.iOS.app \
+	/Users/laetitia.bellity/Documents/calculator.git/iOS/bin/iPhoneSimulator/Debug/Calculator.iOS.app \
 	--executable \
 	Calculator.iOS \
 	--debug \
@@ -18,7 +18,7 @@
 	7.0 \
 	--abi=i386 \
 	--symbollist \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/laetitia.bellity/Documents/calculator.git/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -27,17 +27,17 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/Calculator/bin/Debug/Calculator.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Debug/Calculator.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -133,15 +133,15 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlSerializer.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.Forms.1.3.3.6323/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll \
 	-r \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/Calculator/bin/Debug/Calculator.dll \
+	/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Debug/Calculator.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/laetitia.bellity/Documents/formation-xamarin-master/Calculator/iOS/bin/iPhoneSimulator/Debug//Calculator.iOS.exe \
+	/Users/laetitia.bellity/Documents/calculator.git/iOS/bin/iPhoneSimulator/Debug//Calculator.iOS.exe \

@@ -1,0 +1,9 @@
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/obj/Release/Calculator.MainPage.xaml
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/obj/Release/MainPage.xaml.g.cs
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Release/Calculator.dll.mdb
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Release/Calculator.dll
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/obj/Release/Calculator.dll
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/obj/Release/Calculator.dll.mdb
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Release/Xamarin.Forms.Core.dll
+/Users/laetitia.bellity/Documents/calculator.git/Calculator/bin/Release/Xamarin.Forms.Xaml.dll
